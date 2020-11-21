@@ -2,16 +2,17 @@
 <hr>
 <br>
 
-#### - Git Login
-> ```
-> - git config --global user.email "useremail@example.com"
-> - git config --global user.name "username"
-> ```
+### Git Login
+> <pre><code>
+> - <b>git config --global user.email "useremail@example.com"</b>
+> - <b>git config --global user.name "username"</b>
+> </pre></code>
 
-#### - Git Clone 받기
+<hr>
 
->> ```
-> - cmd -> Clone 받을 폴더로 이동(change Directory) -> git clone repository URL
->> ```
+### Git Clone
 
+> <code>
+> - cmd -> Clone 받을 폴더로 이동(<b>change Directory</b>) -> <b>git clone repository URL</b>
+> </code>
 
