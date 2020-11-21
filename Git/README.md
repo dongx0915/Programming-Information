@@ -9,5 +9,9 @@
 > ```
 
 #### - Git Clone 받기
->
-> ``` - cmd -> Clone 받을 폴더로 이동(**change Directory**) -> **git clone repository URL** ```
+
+>> ```
+> - cmd -> Clone 받을 폴더로 이동(change Directory) -> git clone repository URL
+>> ```
+
+
