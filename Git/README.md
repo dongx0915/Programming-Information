@@ -16,6 +16,7 @@
 - 수정된 내역을 다시 받을 때에는 **git fetch**를 사용(이 과정에서 <u>내가 수정한 내역이 원격 저장소에 있는 내역과 다를 수 있기 때문에</u> **git merge**를 수행)
 - **git fetch**와 **git merge**를 한 번에 할 수 있는 **git pull**
 
+<br><br>
 
 
 # Git 기본 명령어
@@ -44,9 +45,6 @@
 - git add FileName.*       (특정 파일만 add)
 - git add .                (모든 파일을 add)
 ```
- 
-  
----
 
 ### Git commit
 
