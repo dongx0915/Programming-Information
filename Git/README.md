@@ -37,30 +37,15 @@
  - git clone repository URL          
  ```
 
-
-
-### Git status
-
- ```
- - git status
- ```
-
-
 ### Git add
  - **Staging Area**에 파일을 올리는 작업
  
- ```
-  - git add FileName.*       (특정 파일만 add)
-  - git add .                (모든 파일을 add)
- ```
- 
-### Git reset
- - 특정 파일을 **Staging Area**에서 제거
- 
 ```
-- git reset FileName.*
+- git add FileName.*       (특정 파일만 add)
+- git add .                (모든 파일을 add)
 ```
  
+  
 ---
 
 ### Git commit
@@ -76,6 +61,20 @@
 ```
 
 ---
+
+
+### Git status
+
+ ```
+ - git status
+ ```
+
+### Git reset
+ - 특정 파일을 **Staging Area**에서 제거
+ 
+```
+- git reset FileName.*
+```
 
 ### Git checkout 
 * 최근 수정 내역을 원상복귀
