@@ -6,8 +6,11 @@
 #### 2. New Repository 생성
 
 #### 3. Repository Url 복사
+<p align = "center"><img src = "./Git-image/RepositoryURL.PNG"></p>
 
 #### 4. 로컬 컴퓨터에서 업로드하고 싶은 프로젝트 우클릭 > *Git Bash Here*
+<p align = "center"><img src = "./Git-image/GitBashHere.PNG"></p>
+
 
 #### 5. git cmd에서 github 로그인
 ``` 
