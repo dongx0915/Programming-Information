@@ -3,8 +3,8 @@
 <br>
 
 ### Git Login
-> <pre><code>
-> - <b>git config --global user.email "useremail@example.com"</b>
+
+> <pre><code>- <b>git config --global user.email "useremail@example.com"</b>
 > - <b>git config --global user.name "username"</b>
 > </pre></code>
 
