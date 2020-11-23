@@ -22,3 +22,6 @@ System.out.println를 아는가              |  [OKKY](https://okky.kr/article/1
 프로그래머를 꿈꾸신다면 이 영상을 꼭 시청하고 가세요 | [Youtube](https://www.youtube.com/watch?v=hWMztQ4djCY&feature=youtu.be)
 깨끗한 코드를 위한 5가지 팁 | [Youtube](https://www.youtube.com/watch?v=Jz8Sx1XYb04&feature=youtu.be)
 개발자 이력서 작성하기 | [Brunch](https://brunch.co.kr/@hee072794/132)
+대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 | [Youtube - 동빈나](https://www.youtube.com/watch?v=ukkLCl9yBvE)
+초보 개발자를 위한, 개발자 포트폴리오 만드는 방법 | [Youtube - 동빈나](https://www.youtube.com/watch?v=hElB_FY33xs)
+지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 | [Youtube - EO](https://www.youtube.com/watch?v=V9AGvwPmnZU)
