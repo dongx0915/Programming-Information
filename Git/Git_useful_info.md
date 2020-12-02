@@ -8,7 +8,7 @@
   > ```
  <b>-> 이전 명령의 git add가 손상 된 경우이다.</b>
  
- > Solution : 
+ > <b>- Solution : </b>
  > ``` 
  > git init
  > git add .
