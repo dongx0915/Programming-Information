@@ -9,7 +9,7 @@ Contents                                | Link
 HTML CSS Chat Box Designs | [Link](https://csshint.com/html-css-chat-box-designs/)
 HowToCss                              | [w3schools](https://www.w3schools.com/howto/howto_css_icon_bar.asp)
 Html 소스 자료                       | [blueb](https://www.blueb.co.kr/?c=1/14&uid=3940)
-
+[Selenium] Invisible(display:none) 상태인 Element의 text 가져오는 방법 | [Tistory](https://jinseongsoft.tistory.com/310)
 ### 취업 | Tip 참고자료
 
 <hr>
