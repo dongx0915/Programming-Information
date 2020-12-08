@@ -25,3 +25,8 @@ System.out.println를 아는가              |  [OKKY](https://okky.kr/article/1
 대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 | [Youtube - 동빈나](https://www.youtube.com/watch?v=ukkLCl9yBvE)
 초보 개발자를 위한, 개발자 포트폴리오 만드는 방법 | [Youtube - 동빈나](https://www.youtube.com/watch?v=hElB_FY33xs)
 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 | [Youtube - EO](https://www.youtube.com/watch?v=V9AGvwPmnZU)
+
+### 알아두면 좋은 정보
+Contents                                | Link
+----------------------------------------|------
+임시변수 없이 Swap 구현하기 | [Tistory](https://jungpaeng.tistory.com/12?category=929307)
