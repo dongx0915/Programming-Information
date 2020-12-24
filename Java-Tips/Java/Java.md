@@ -21,7 +21,7 @@ public class Test {
 ```
 #### < 실행 결과 > 
 
-![실행결과](./Image/ScannerResult.PNG)
+![실행결과](../Image/ScannerResult.PNG)
 ( 공백을 기준으로 입력이 끊기는 것을 볼 수 있다. )
 
 - 일반적으로는 이를 해결하기 위해 <b>BufferedReader</b>를 써도 되지만, 아무래도 <b>BufferedReader</b>를 이용하다보면 한 줄을 통째로 읽어들이기 때문에 <b>InputMissMatchException</b> 이 발생하는 경우가 많다.
@@ -42,7 +42,7 @@ public class Test {
 ```
 
 #### < 실행 결과 >
-![실행 결과](./Image/useDelimiterResult.PNG)
+![실행 결과](../Image/useDelimiterResult.PNG)
 (공백이 있더라도 한 줄이 모두 입력이 되는 것을 볼 수 있다.)
 <br>
 
