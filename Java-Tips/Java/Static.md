@@ -6,3 +6,5 @@
  <br>
  
  <img align = "center" src = "../Image/StaticArea.jpg">
+
+[[Java] static변수와 static 메소드](https://mangkyu.tistory.com/47)
