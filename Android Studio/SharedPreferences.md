@@ -197,3 +197,16 @@ public class PreferenceManager {
     }
 }
 ```
+
+
+- SharedPreferences 사용
+
+- 값 추가
+```Java
+        PreferenceManager.setString(mainContext, "Key", value);
+```
+
+- 값 받아오기
+```Java
+       String value = PreferenceManager.getString(mainContext, "Key");
+```
