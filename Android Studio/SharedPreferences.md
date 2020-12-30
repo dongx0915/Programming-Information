@@ -199,7 +199,7 @@ public class PreferenceManager {
 ```
 
 
-- SharedPreferences 사용
+- **SharedPreferences 사용법**
 
 - 값 추가
 ```Java
