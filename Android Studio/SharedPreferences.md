@@ -1,6 +1,14 @@
 # SharedPreferences
 <hr>
 
+
+- 데이터의 양이 많거나 중요한 데이터라면 **서버**나 **DB**, **파일**의 형태로 저장을 하면 되겠지만, 간단한 설정 값이나 문자열 같은 데이터들은 DB에 저장하기에는 부담스럽고 애매하다.
+- 이런 경우 안드로이드에서 기본적으로 제공되는 **SharedPreferences**를 사용하여 데이터를 관리한다면 좀 더 편리하게 사용이 가능하다.
+- **SharedPreferences**는 데이터를 파일로 저장 한다. **파일이 앱 폴더 내에 저장**되므로 **앱을 삭제하면 데이터도 삭제**된다.
+    - 파일이 저장되는 위치
+        ``` data/data/(package_name)/shared_prefs/SharedPreference```
+
+
 ```Java
 
 import android.content.Context;
