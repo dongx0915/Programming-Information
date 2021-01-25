@@ -1,3 +1,5 @@
+[원문](https://medium.com/@originerd/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EC%A2%80-%EB%8D%94-%EA%B9%8A%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-5bd16027e1e0)
+
 ■ 도입
 
 \- 정규표현식은 단어나 표현식이 문자열에 있는 지를 가려내고 찾아내는 역할을 한다.
