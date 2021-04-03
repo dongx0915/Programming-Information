@@ -26,6 +26,12 @@ System.out.println를 아는가              |  [OKKY](https://okky.kr/article/1
 초보 개발자를 위한, 개발자 포트폴리오 만드는 방법 | [Youtube - 동빈나](https://www.youtube.com/watch?v=hElB_FY33xs)
 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 | [Youtube - EO](https://www.youtube.com/watch?v=V9AGvwPmnZU)
 
+
+### 알고리즘 Tip
+Contents                                | Link
+----------------------------------------|------
+알고리즘 시간 복잡도 대강 분석하기              | [Tistory](https://codingdog.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EB%8C%80%EA%B0%95-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+
 ### 알아두면 좋은 정보
 Contents                                | Link
 ----------------------------------------|------
