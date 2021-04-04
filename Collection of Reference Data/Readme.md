@@ -25,8 +25,7 @@ System.out.println를 아는가              |  [OKKY](https://okky.kr/article/1
 대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 | [Youtube - 동빈나](https://www.youtube.com/watch?v=ukkLCl9yBvE)
 초보 개발자를 위한, 개발자 포트폴리오 만드는 방법 | [Youtube - 동빈나](https://www.youtube.com/watch?v=hElB_FY33xs)
 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 | [Youtube - EO](https://www.youtube.com/watch?v=V9AGvwPmnZU)
-
-
+주니어 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 | [Abit](https://abit.ly/ajhyk0)
 ### 알고리즘 Tip
 Contents                                | Link
 ----------------------------------------|------
