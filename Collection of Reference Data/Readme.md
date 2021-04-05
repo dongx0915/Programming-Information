@@ -10,6 +10,8 @@ HTML CSS Chat Box Designs | [Link](https://csshint.com/html-css-chat-box-designs
 HowToCss                              | [w3schools](https://www.w3schools.com/howto/howto_css_icon_bar.asp)
 Html 소스 자료                       | [blueb](https://www.blueb.co.kr/?c=1/14&uid=3940)
 [Selenium] Invisible(display:none) 상태인 Element의 text 가져오는 방법 | [Tistory](https://jinseongsoft.tistory.com/310)
+정규표현식, 더 이상 미루지 말자           | [Youtube](https://youtu.be/t3M6toIflyQ)
+
 ### 취업 | Tip 참고자료
 
 <hr>
@@ -32,6 +34,7 @@ System.out.println를 아는가              |  [OKKY](https://okky.kr/article/1
 Contents                                | Link
 ----------------------------------------|------
 상속 대신 조합을 고려해보자                   |[Github](https://bit.ly/3vN9sLc)
+
 ### 알고리즘 Tip
 Contents                                | Link
 ----------------------------------------|------
