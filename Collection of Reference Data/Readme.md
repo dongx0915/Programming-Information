@@ -1,7 +1,7 @@
 ## 개발 & 취업 참고자료 모음 
 
 ### 개발 참고자료
-
+> 개발과 직접적으로 관련있는 자료(구현, 오류 해결 등)
 <hr>
 
 Contents                                | Link
@@ -10,10 +10,9 @@ HTML CSS Chat Box Designs | [Link](https://csshint.com/html-css-chat-box-designs
 HowToCss                              | [w3schools](https://www.w3schools.com/howto/howto_css_icon_bar.asp)
 Html 소스 자료                       | [blueb](https://www.blueb.co.kr/?c=1/14&uid=3940)
 [Selenium] Invisible(display:none) 상태인 Element의 text 가져오는 방법 | [Tistory](https://jinseongsoft.tistory.com/310)
-정규표현식, 더 이상 미루지 말자           | [Youtube](https://youtu.be/t3M6toIflyQ)
 
 ### 취업 | Tip 참고자료
-
+> 취업에 도움이 될만한 자료
 <hr>
 
 Contents                                | Link
@@ -22,7 +21,6 @@ Contents                                | Link
 System.out.println를 아는가              |  [OKKY](https://okky.kr/article/149762)
 프로그래머로 살아남기 위해 필요한 언어 둘 | [Youtube](https://www.youtube.com/watch?v=ESU2IkFj9VM&feature=youtu.be)
 프로그래머를 꿈꾸신다면 이 영상을 꼭 시청하고 가세요 | [Youtube](https://www.youtube.com/watch?v=hWMztQ4djCY&feature=youtu.be)
-깨끗한 코드를 위한 5가지 팁 | [Youtube](https://www.youtube.com/watch?v=Jz8Sx1XYb04&feature=youtu.be)
 개발자 이력서 작성하기 | [Brunch](https://brunch.co.kr/@hee072794/132)
 대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 | [Youtube - 동빈나](https://www.youtube.com/watch?v=ukkLCl9yBvE)
 초보 개발자를 위한, 개발자 포트폴리오 만드는 방법 | [Youtube - 동빈나](https://www.youtube.com/watch?v=hElB_FY33xs)
@@ -31,9 +29,15 @@ System.out.println를 아는가              |  [OKKY](https://okky.kr/article/1
 
 
 ### 개발자 INFO
+> 개발자로써의 성장, 실력 향상을 위한 정보
+
+<hr>
+
 Contents                                | Link
 ----------------------------------------|------
 상속 대신 조합을 고려해보자                   |[Github](https://bit.ly/3vN9sLc)
+정규표현식, 더 이상 미루지 말자           | [Youtube](https://youtu.be/t3M6toIflyQ)
+깨끗한 코드를 위한 5가지 팁 | [Youtube](https://www.youtube.com/watch?v=Jz8Sx1XYb04&feature=youtu.be)
 
 ### 알고리즘 Tip
 Contents                                | Link
