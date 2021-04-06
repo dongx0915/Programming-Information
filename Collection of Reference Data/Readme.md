@@ -40,6 +40,16 @@ Contents                                | Link
 깨끗한 코드를 위한 5가지 팁 | [Youtube](https://www.youtube.com/watch?v=Jz8Sx1XYb04&feature=youtu.be)
 코딩테스트는 정말 필요한가?  | [Velog](https://bit.ly/3cQIg6J)
 
+
+### 개발자 Book
+
+<hr>
+
+Contents                                | Link
+----------------------------------------|-------
+개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 | [Velog](https://bit.ly/3eS6Hm2)
+
+
 ### 알고리즘 Tip
 Contents                                | Link
 ----------------------------------------|------
