@@ -38,6 +38,7 @@ Contents                                | Link
 상속 대신 조합을 고려해보자                   |[Github](https://bit.ly/3vN9sLc)
 정규표현식, 더 이상 미루지 말자           | [Youtube](https://youtu.be/t3M6toIflyQ)
 깨끗한 코드를 위한 5가지 팁 | [Youtube](https://www.youtube.com/watch?v=Jz8Sx1XYb04&feature=youtu.be)
+코딩테스트는 정말 필요한가?  | [Velog](https://bit.ly/3cQIg6J)
 
 ### 알고리즘 Tip
 Contents                                | Link
