@@ -40,6 +40,8 @@ Contents                                | Link
 깨끗한 코드를 위한 5가지 팁 | [Youtube](https://www.youtube.com/watch?v=Jz8Sx1XYb04&feature=youtu.be)
 코딩테스트는 정말 필요한가?  | [Velog](https://bit.ly/3cQIg6J)
 커밋 메시지 주도 개발       | [Github](https://gyuwon.github.io/blog/2021/04/04/commit-message-driven-development.html) 
+API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
+
 
 ### 개발자 Book
 
