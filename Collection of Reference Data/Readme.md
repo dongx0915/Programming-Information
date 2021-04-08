@@ -42,7 +42,7 @@ Contents                                | Link
 커밋 메시지 주도 개발       | [Github](https://gyuwon.github.io/blog/2021/04/04/commit-message-driven-development.html) 
 API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 우리, 코드 리뷰 해볼래?      | [Tistory](https://hye-on-astrogrammer.tistory.com/13)
-
+유지보수 가능한 코드를 위한 노력 | [Velog](https://velog.io/@jerrynim_/%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5)
 ### 개발자 Book
 
 <hr>
