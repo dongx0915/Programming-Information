@@ -10,7 +10,7 @@ HTML CSS Chat Box Designs | [Link](https://csshint.com/html-css-chat-box-designs
 HowToCss                              | [w3schools](https://www.w3schools.com/howto/howto_css_icon_bar.asp)
 Html 소스 자료                       | [blueb](https://www.blueb.co.kr/?c=1/14&uid=3940)
 [Selenium] Invisible(display:none) 상태인 Element의 text 가져오는 방법 | [Tistory](https://jinseongsoft.tistory.com/310)
-
+[React] 가상 스크롤 구현                 | [Tistory](https://yeoulcoding.tistory.com/m/171?category=816310)
 ### 취업 | Tip 참고자료
 > 취업에 도움이 될만한 자료
 <hr>
@@ -43,6 +43,10 @@ Contents                                | Link
 API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 우리, 코드 리뷰 해볼래?      | [Tistory](https://hye-on-astrogrammer.tistory.com/13)
 유지보수 가능한 코드를 위한 노력 | [Velog](https://velog.io/@jerrynim_/%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5)
+개발 초보자를 위한 StackOverflow 질문하는 법 |  [Blog](https://www.kowanas.com/coding/2020/11/23/stackoverflow/)
+앱 안정성을 위한 끊임없는 여정               | [Blog](https://bit.ly/3pByjxU)
+
+
 ### 개발자 Book
 
 <hr>
