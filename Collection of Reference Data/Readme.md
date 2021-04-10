@@ -45,7 +45,7 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 유지보수 가능한 코드를 위한 노력 | [Velog](https://velog.io/@jerrynim_/%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5)
 개발 초보자를 위한 StackOverflow 질문하는 법 |  [Blog](https://www.kowanas.com/coding/2020/11/23/stackoverflow/)
 앱 안정성을 위한 끊임없는 여정               | [Blog](https://bit.ly/3pByjxU)
-
+함수형 인터페이스란                         | [Velog](https://velog.io/@jaden_94/%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-Functional-Interface)
 
 ### 개발자 Book
 
