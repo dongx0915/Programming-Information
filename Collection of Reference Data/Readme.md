@@ -51,6 +51,15 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 [Java] if, else 에서 탈출해보자! interface활용 |  [Tistory](https://bit.ly/36wcRn2)
 지속 가능한 소프트웨어 설계 패턴 : 포트와 어댑터 아키텍처 적용하기  | [LINE](https://bit.ly/3mHBfbf)
 아이디어가 있다구 ? 창의력을 위한 조언 한 마디              | [Youtube](https://youtu.be/Qc-D9oPKQt4)
+개발자라면 오픈소스 프로젝트를 참여해야하는 이유와 방법          | [Youtube](https://youtu.be/GejCvgcBLwA)
+
+
+
+
+
+
+
+
 ### 개발자 Book
 
 <hr>
