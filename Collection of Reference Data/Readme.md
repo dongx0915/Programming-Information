@@ -54,7 +54,7 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 개발자라면 오픈소스 프로젝트를 참여해야하는 이유와 방법          | [Youtube](https://youtu.be/GejCvgcBLwA)
 자바 메서드 '잘' 작성하는 방법, 알면서 못 지키는 것들    |  [Tistory](https://jeong-pro.tistory.com/m/177?category=773575)
 자바 스트림(Stream) API 정리, 스트림을 이용한 가독성 좋은 코드 만들기   | [Tistory](https://jeong-pro.tistory.com/m/165)
-
+자바 동기화, 어설프게 아는 사람이 더 무섭다(java synchronized에 대한 착각, thread-safe)  | [Tistory](https://jeong-pro.tistory.com/m/227)
 
 
 
