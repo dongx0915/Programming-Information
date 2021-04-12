@@ -48,7 +48,7 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 함수형 인터페이스란                         | [Velog](https://velog.io/@jaden_94/%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-Functional-Interface)
 개발자가 맥북이 아니라 리눅스 플랫폼을 사용하는 이유 | [Tistory](https://stricky.tistory.com/422)
 개발자가 되려면 코딩 어떻게 배워야돼요 ?           | [Youtube](https://youtu.be/Xxg581iRWks)
-
+[Java] if, else 에서 탈출해보자! interface활용 |  [Tistory](https://bit.ly/36wcRn2)
 
 ### 개발자 Book
 
