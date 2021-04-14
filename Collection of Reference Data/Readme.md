@@ -56,7 +56,7 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 자바 스트림(Stream) API 정리, 스트림을 이용한 가독성 좋은 코드 만들기   | [Tistory](https://jeong-pro.tistory.com/m/165)
 자바 동기화, 어설프게 아는 사람이 더 무섭다(java synchronized에 대한 착각, thread-safe)  | [Tistory](https://jeong-pro.tistory.com/m/227)
 자바에서 String을 다룰 때 오해와 진실         |  [Dev](https://dev.to/composite/string-2l5a)
-
+개발자로 대기업 취업하고 싶어 ?  | [Youtube](https://youtu.be/qe2FJR7KCeE)
 
 
 
