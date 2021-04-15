@@ -57,7 +57,7 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 자바 동기화, 어설프게 아는 사람이 더 무섭다(java synchronized에 대한 착각, thread-safe)  | [Tistory](https://jeong-pro.tistory.com/m/227)
 자바에서 String을 다룰 때 오해와 진실         |  [Dev](https://dev.to/composite/string-2l5a)
 개발자로 대기업 취업하고 싶어 ?  | [Youtube](https://youtu.be/qe2FJR7KCeE)
-
+모바일 앱 개발의 현재와 미래(네이티브, 하이브리드, 크로스 플랫폼 앱 장단점과 전망)  | [Youtube](https://youtu.be/2AS0WAOX8_8) 
 
 
 ### 개발자 Book
