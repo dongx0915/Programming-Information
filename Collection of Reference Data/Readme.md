@@ -59,6 +59,8 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 개발자로 대기업 취업하고 싶어 ?  | [Youtube](https://youtu.be/qe2FJR7KCeE)
 모바일 앱 개발의 현재와 미래(네이티브, 하이브리드, 크로스 플랫폼 앱 장단점과 전망)  | [Youtube](https://youtu.be/2AS0WAOX8_8) 
 [안드로이드로 배우는 OpenCV] 이미지 필터링 (공간적 필터링)  |  [Blog](https://bit.ly/3u6buVq)
+LeetCode 문제풀이는 실무에 도움이 되는가?   | [Tistory](https://bit.ly/3nB08WZ)
+
 
 ### 개발자 Book
 
