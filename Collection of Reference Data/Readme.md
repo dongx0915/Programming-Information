@@ -60,7 +60,7 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 모바일 앱 개발의 현재와 미래(네이티브, 하이브리드, 크로스 플랫폼 앱 장단점과 전망)  | [Youtube](https://youtu.be/2AS0WAOX8_8) 
 [안드로이드로 배우는 OpenCV] 이미지 필터링 (공간적 필터링)  |  [Blog](https://bit.ly/3u6buVq)
 LeetCode 문제풀이는 실무에 도움이 되는가?   | [Tistory](https://bit.ly/3nB08WZ)
-
+컴공 1학년이 지났는데도 개인 프로젝트를 하지않은 분들께     |  [Youtube](https://youtu.be/7tRZfWQqSDs)
 
 ### 개발자 Book
 
