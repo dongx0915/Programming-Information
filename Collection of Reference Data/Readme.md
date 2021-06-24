@@ -62,8 +62,7 @@ API란 ?                 | [Youtube](https://youtu.be/ogT267HvNuQ)
 LeetCode 문제풀이는 실무에 도움이 되는가?   | [Tistory](https://bit.ly/3nB08WZ)
 컴공 1학년이 지났는데도 개인 프로젝트를 하지않은 분들께     |  [Youtube](https://youtu.be/7tRZfWQqSDs)
 코딩의 시작과 끝, 디버깅 : 실력있는 개발자의 필수 무기 | [Youtube](https://youtu.be/IwC-BVM2_YQ)
-
-
+개발자라면 "무조건" 알고리즘 공부를 해야할까 ?        | [Youtube](https://youtu.be/9TyyMtlk5i4)
 ### 개발자 Book
 
 <hr>
